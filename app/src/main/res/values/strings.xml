@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Temperature converter</string>
+    <string name="f">Celsius to Farhenite</string>
+
+
+    <string name="btn">CONVERT</string>
+    <string name="btn2">CHANGE UNIT</string>
+    <string name="none">0</string>
+    <string name="here">Enter in Celsius</string>
+    <string name="hint">answer</string>
+
+</resources>
