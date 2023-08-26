@@ -70,7 +70,7 @@ cl.setBackgroundColor(getResources().getColor(R.color.neutral));
                 cl.setBackgroundColor(getResources().getColor(R.color.lightblue));
 
             }else if(c>24){
-                cl.setBackgroundColor(getResources().getColor(R.color.RED));
+                cl.setBackgroundColor(getResources().getColor(R.color.orange));
 
             }else{
                 Toast.makeText(getApplicationContext(),"Err",Toast.LENGTH_SHORT).show();
